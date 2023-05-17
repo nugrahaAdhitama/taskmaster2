@@ -1,0 +1,31 @@
+1. Home
+Header: Logo di sudut kiri atas, Navigasi (Login/Registrasi) di sudut kanan atas
+Hero Section: Gambar latar belakang menarik, teks penjelasan singkat tentang "TaskMaster" yang jelas dan menarik, tombol CTA berwarna kontras untuk Login/Registrasi
+Fitur Section: Ikoni atau gambar yang mewakili setiap fitur, teks penjelasan singkat yang jelas dan to-the-point untuk setiap fitur
+Testimonials Section: Slider atau kumpulan kutipan dari pengguna, dilengkapi dengan nama dan foto (jika ada)
+Footer: Informasi kontak, link kebijakan privasi dan syarat & ketentuan, ikon/link ke akun media sosial TaskMaster.
+
+2. Login/Registrasi
+Header: Logo di sudut kiri atas, Navigasi (Home, Login/Registrasi) di sudut kanan atas
+Form Section: Form login atau registrasi dengan field yang jelas (misalnya, email, password), tombol submit yang jelas, opsi "Lupa Password" atau "Daftar" di bawah form
+Footer: Sama seperti Home
+
+3. Dashboard
+Sidebar: Logo di atas, Navigasi (Profil Pengguna, Manajemen Jadwal Kuliah, Manajemen Tugas, Pencatatan dan Pelacakan Progres Tugas, Fitur Kolaborasi dan Komunikasi, Logout) dalam bentuk ikon dengan teks
+Main Content: Box atau kartu untuk setiap fitur (jadwal kuliah hari ini, tugas yang harus diselesaikan, progres tugas, pesan terbaru dalam kolaborasi), setiap box/kartu memiliki tombol/tautan ke halaman fitur yang relevan
+
+4. Profil Pengguna
+Sidebar: Sama seperti Dashboard
+Main Content: Form dengan field seperti nama, email, nomor telepon, foto profil, tombol untuk ganti password, opsi atur notifikasi dengan checkbox atau switch
+
+5. Manajemen Jadwal Kuliah
+Sidebar: Sama seperti Dashboard
+Main Content: Kalender interaktif atau tabel dengan kolom seperti nama mata kuliah, waktu, ruang, dosen; tombol/tautan untuk tambah, edit, hapus jadwal di setiap baris; tombol untuk sinkronisasi dengan Google Calendar
+
+6. Manajemen Tugas
+Sidebar: Sama seperti Dashboard
+Main Content: Daftar tugas dalam bentuk kartu, setiap kartu berisi informasi seperti judul tugas, tenggat waktu, status; tombol/tautan untuk tambah, edit, hapus tugas di setiap kartu; checkbox atau switch untuk set pengingat
+
+7. Pencatatan dan Pelacakan Progres Tugas
+Sidebar: Sama seperti Dashboard
+Main Content: Daftar catatan progres dalam bentuk kartu, setiap kartu berisi informasi seperti judul tugas, catatan, tanggal; visualisasi progres dalam bentuk grafik atau diagram dengan legenda yang jelas; tombol/tautan untuk tambah catatan

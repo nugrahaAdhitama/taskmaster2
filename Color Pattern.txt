@@ -1,0 +1,26 @@
+Warna Utama (Primary Color)
+
+Biru Tua: #004FAC
+Biru tua sering dikaitkan dengan kepercayaan dan stabilitas, yang cocok untuk platform manajemen tugas yang ditujukan untuk membantu pengguna tetap terorganisir.
+Warna Sekunder (Secondary Colors)
+
+Hijau Muda: #26D07C
+Hijau muda dapat menunjukkan pertumbuhan dan energi positif, sesuai dengan semangat belajar dan berkembang dalam konteks pendidikan.
+Kuning: #FDB813
+Kuning dapat menunjukkan kegembiraan dan kreativitas, menciptakan suasana yang menyenangkan dan merangsang ide-ide baru.
+Warna Latar Belakang (Background Colors)
+
+Putih: #FFFFFF
+Warna putih menciptakan tampilan yang bersih dan memudahkan pengguna membaca dan memahami informasi di platform.
+Abu-abu Muda: #F6F6F6
+Abu-abu muda dapat digunakan sebagai alternatif putih untuk memberikan variasi dan kedalaman visual.
+Warna Teks (Text Colors)
+
+Abu-abu Gelap: #333333
+Abu-abu gelap digunakan untuk teks utama, mudah dibaca dan memiliki kontras yang cukup dengan latar belakang putih atau abu-abu muda.
+Biru Tua: #004FAC
+Biru tua dapat digunakan untuk judul atau teks penting untuk mencocokkan dengan warna utama.
+Warna Aksen (Accent Colors)
+
+Merah: #D32F2F
+Merah digunakan untuk menyoroti informasi penting atau peringatan, seperti tenggat waktu mendekat atau kesalahan form.

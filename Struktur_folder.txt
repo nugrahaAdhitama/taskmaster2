@@ -1,0 +1,38 @@
+taskmaster/
+├── public/
+│   ├── index.html
+│   ├── css/
+│   │   ├── main.css
+│   │   ├── auth.css
+│   │   └── dashboard.css
+│   ├── js/
+│   │   ├── main.js
+│   │   ├── auth.js
+│   │   └── dashboard.js
+│   └── assets/
+│       ├── images/
+│       └── icons/
+├── src/
+│   ├── components/
+│   │   ├── Home/
+│   │   │   ├── About.js
+│   │   │   ├── Features.js
+│   │   │   └── HowItWorks.js
+│   │   ├── Authentication/
+│   │   │   ├── Register.js
+│   │   │   ├── Login.js
+│   │   │   └── ForgotPassword.js
+│   │   ├── UserDashboard/
+│   │   │   ├── UserProfile.js
+│   │   │   ├── ScheduleManagement.js
+│   │   │   ├── TaskManagement.js
+│   │   │   └── ProgressTracking.js
+│   │   └── CommunicationIntegration/
+│   │       ├── Slack.js
+│   │       ├── WhatsApp.js
+│   │       └── Discord.js
+│   ├── App.js
+│   └── index.js
+├── node_modules/
+├── package.json
+└── README.md

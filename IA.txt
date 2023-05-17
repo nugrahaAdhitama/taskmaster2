@@ -1,0 +1,47 @@
+Information Architecture
+
+1. Home
+Penjelasan Singkat Tentang "TaskMaster"
+CTA (Call to Action) untuk Login/Registrasi
+
+2. Login/Registrasi
+Form Login
+Form Registrasi
+Pengaturan Lupa Password
+
+3. Dashboard (Setelah Login)
+Profil Pengguna
+Manajemen Jadwal Kuliah
+Manajemen Tugas
+Pencatatan dan Pelacakan Progres Tugas
+Fitur Kolaborasi dan Komunikasi
+Logout
+
+3. Profil Pengguna
+Edit Profil
+Ganti Password
+Atur Notifikasi
+
+4. Manajemen Jadwal Kuliah
+Tambah Jadwal
+Lihat Jadwal
+Edit Jadwal
+Hapus Jadwal
+Sinkronisasi dengan Google Calendar
+
+5. Manajemen Tugas
+Tambah Tugas Individu/Kelompok
+Lihat Tugas Individu/Kelompok
+Edit Tugas Individu/Kelompok
+Hapus Tugas Individu/Kelompok
+Set Pengingat Tugas
+
+6. Pencatatan dan Pelacakan Progres Tugas
+Tambah Catatan Progres
+Lihat Progres
+Visualisasi Progres Tugas
+
+7. Fitur Kolaborasi dan Komunikasi
+Diskusi Tugas Kelompok
+Integrasi dengan aplikasi komunikasi
+Bagikan Tautan/Dokumen/Sumber Daya

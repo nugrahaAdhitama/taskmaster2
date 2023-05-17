@@ -1,0 +1,31 @@
+Ide Proyek Website: "TaskMaster - Penjadwalan dan Manajemen Tugas Mahasiswa"
+
+Deskripsi Singkat:
+TaskMaster adalah platform online yang dirancang khusus untuk membantu mahasiswa dalam penjadwalan dan manajemen tugas. Fitur utamanya mencakup pembuatan jadwal kuliah, pengingat tugas, dan kolaborasi dengan rekan-rekan dalam pengerjaan tugas kelompok. Platform ini akan menggunakan CRUD (Create, Read, Update, Delete) serta Authentication & Authorization untuk mengontrol akses dan manajemen konten.
+
+Fitur Utama:
+
+Manajemen Profil Pengguna (Authentication & Authorization)
+Mahasiswa dapat membuat, membaca, memperbarui, dan menghapus profil mereka.
+Menggunakan sistem otentikasi yang aman untuk login dan registrasi (misalnya, email dan password atau Single Sign-On dari institusi pendidikan).
+Hak akses berdasarkan peran (mahasiswa, dosen, admin) untuk mengontrol akses ke fitur tertentu.
+
+Penjadwalan Kuliah
+Mahasiswa dapat membuat, melihat, mengedit, dan menghapus jadwal kuliah mereka.
+Integrasi dengan kalender online populer (seperti Google Calendar) untuk sinkronisasi jadwal antar platform.
+Opsi untuk menambahkan catatan atau detail tambahan untuk setiap jadwal kuliah.
+
+Manajemen Tugas Individu dan Kelompok
+Mahasiswa dapat membuat, melihat, mengedit, dan menghapus tugas individu dan kelompok.
+Fitur pengingat dan notifikasi yang akan mengirimkan peringatan melalui email atau aplikasi ketika tenggat waktu tugas mendekat.
+Kemampuan untuk mengundang rekan-rekan untuk bergabung dalam pengerjaan tugas kelompok dan mengatur pembagian pekerjaan.
+
+Pencatatan dan Pelacakan Progres Tugas
+Mahasiswa dapat menambahkan catatan mengenai progres tugas, seperti pencapaian, kendala, atau informasi terkait.
+Fitur pelacakan progres yang memungkinkan mahasiswa untuk melihat sejauh mana pekerjaan mereka telah diselesaikan dan apa yang masih perlu dikerjakan.
+Visualisasi progres dalam bentuk grafik atau diagram yang mudah dipahami.
+
+Kolaborasi dan Komunikasi
+Fitur diskusi dalam tugas kelompok yang memungkinkan anggota kelompok untuk berkomunikasi, berbagi ide, dan mengkoordinasikan pekerjaan.
+Integrasi dengan aplikasi komunikasi populer (seperti Slack, WhatsApp, atau Discord) untuk memudahkan diskusi antar anggota kelompok.
+Opsi untuk membagikan tautan, dokumen, atau sumber daya relevan dalam diskusi tugas kelompok.
